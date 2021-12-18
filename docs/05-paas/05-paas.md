@@ -23,3 +23,19 @@
 
 8.Masukan perintah pada terminal agar vm bisa mengakses database
 <img width="1060" alt="Screen Shot 2021-12-17 at 16 51 09" src="https://user-images.githubusercontent.com/60720642/146589920-304eed10-4bd7-4321-a62d-04ff586601db.png">
+
+9.Create databases yang akan dibuat
+<img width="1440" alt="Screen Shot 2021-12-18 at 13 16 46" src="https://user-images.githubusercontent.com/60720642/146631504-225bce39-1035-43cd-ae66-b495e66f42d2.png">
+
+10.Instalasii wordpress melalui var/html/www
+<img width="619" alt="Screen Shot 2021-12-18 at 13 18 52" src="https://user-images.githubusercontent.com/60720642/146631542-38651d7d-bb3f-4503-8bd1-abe58d192537.png">
+
+11.Masuk ke halaman wordpress
+<img width="700" alt="Screen Shot 2021-12-18 at 13 11 15" src="https://user-images.githubusercontent.com/60720642/146631565-55f5c6e0-d828-43c4-8805-eea749205716.png">
+
+12.Membuat configurasi wordpress
+<img width="682" alt="Screen Shot 2021-12-18 at 13 14 36" src="https://user-images.githubusercontent.com/60720642/146631597-0a348085-66e0-40c2-a2f5-9aa9b3868f00.png">
+
+13.Login ke dalam wordpress<img width="1194" alt="Screen Shot 2021-12-18 at 13 15 12" src="https://user-images.githubusercontent.com/60720642/146631630-424c05c6-1275-4202-bda6-247ab138fc5b.png">
+
+
